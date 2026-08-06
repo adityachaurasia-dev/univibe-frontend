@@ -2,14 +2,14 @@ import home from "../assets/home/home.svg";
 import SideList from "./ui/SideList";
 import search from "../assets/home/search.svg";
 import { useNavigate } from "react-router-dom";
-import profile from "../assets/home/Profile.svg";
+import profile from "../assets/home/profile.svg";
 import logout from "../assets/home/logout.svg";
-import setting from "../assets/home/Setting.svg";
-import upload from "../assets/home/Upload.svg";
-import result from "../assets/home/Result.svg";
+import setting from "../assets/home/setting.svg";
+import upload from "../assets/home/upload.svg";
+import result from "../assets/home/result.svg";
 import axios from "axios";
 import question from "../assets/home/QPaper.svg";
-import events from "../assets/home/Events.svg";
+import events from "../assets/home/events.svg";
 
 const AsideLeft = () => {
   const navigate = useNavigate();
