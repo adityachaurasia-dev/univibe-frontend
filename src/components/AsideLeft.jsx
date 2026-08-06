@@ -3,7 +3,7 @@ import SideList from "./ui/SideList";
 import search from "../assets/home/search.svg";
 import { useNavigate } from "react-router-dom";
 import profile from "../assets/home/Profile.svg";
-import logout from "../assets/home/Logout.svg";
+import logout from "../assets/home/logout.svg";
 import setting from "../assets/home/Setting.svg";
 import upload from "../assets/home/Upload.svg";
 import result from "../assets/home/Result.svg";
